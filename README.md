@@ -7,7 +7,7 @@
 - [Introduction](#introduction)
 - [Claims](#Claims)
 - [Webscraper](#Webscraper)
-- [Training on VitaminC](#Training)
+- [Training on FEVER & VitaminC](#Training)
 - [Finetuning on Politifact](#Finetuning)
 - [Acknowledgments](#acknowledgments)
 
