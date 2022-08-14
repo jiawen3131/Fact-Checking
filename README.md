@@ -32,7 +32,7 @@ graph TD;
 Hence, in this project, we seek to improve both the ***retrieval of evidences*** and the ***accuracy of predictions*** with the BERT-LSTM model.
 
 ## Claims
-A local test dataset was manually created consisting of 100 claims. The dataset is evenly distributed, with 55 True claims and 45 False claims.
+A local test dataset was manually created consisting of 100 claims. The dataset is evenly distributed, with 55 True claims and 45 False claims. The claims data can be found [here](https://github.com/jiawen3131/Fact-Checking/tree/main/SG_Claims%20Data)
 
 ## Webscraper 
 The original webscraper used to retrieved relevant evidences given a claim is by using ***Google's crawler***. An example of the evidence snippets retrieved are as shown in the table below. 
