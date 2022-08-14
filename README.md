@@ -48,7 +48,7 @@ As seen, there are a few problems with the retrieved evidence, namely:
 Hence, I first made use of regex to clean the noisy date data, before using the BeautifulSoup library to extract html data and perform substring search to complete the incomplete sentences. As seen under 'Improved retrieved evidence', the retrieved evidence is more complete and accurate in allowing us to arrive at the correct prediction. 
 
 The webscrapers can found below:
-- [Original Google API crawler]
-- [Edited Google API crawler]
+- [Original Google API crawler](https://github.com/jiawen3131/Fact-Checking/blob/main/Webscraper/Original%20Google%20Webscraper.ipynb)
+- [Edited Google API crawler](https://github.com/jiawen3131/Fact-Checking/blob/main/Webscraper/Edited%20Google%20API%20Crawler.ipynb)
 
 
