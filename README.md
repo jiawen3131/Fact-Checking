@@ -32,7 +32,7 @@ graph TD;
 Hence, in this project, we seek to improve both the ***retrieval of evidences*** and the ***accuracy of predictions*** with the BERT-LSTM model.
 
 ## Claims
-A local test dataset was manually created consisting of 100 claims. The dataset is evenly distributed, with 55 True claims and 45 False claims. The claims data can be found [here](https://github.com/jiawen3131/Fact-Checking/tree/main/SG_Claims%20Data)
+A local test dataset was manually created consisting of 100 claims. The dataset is evenly distributed, with 55 True claims and 45 False claims. The claims data can be found [here.](https://github.com/jiawen3131/Fact-Checking/tree/main/SG_Claims%20Data)
 
 ## Webscraper 
 The original webscraper used to retrieved relevant evidences given a claim is by using ***Google's crawler***. An example of the evidence snippets retrieved are as shown in the table below. 
@@ -46,5 +46,9 @@ As seen, there are a few problems with the retrieved evidence, namely:
 - The ***date data (Dec 3, 2021) is potentially noisy evidence*** that can affect the accuracy of model predictions
 
 Hence, I first made use of regex to clean the noisy date data, before using the BeautifulSoup library to extract html data and perform substring search to complete the incomplete sentences. As seen under 'Improved retrieved evidence', the retrieved evidence is more complete and accurate in allowing us to arrive at the correct prediction. 
+
+The webscrapers can found below:
+- [Original Google API crawler]
+- [Edited Google API crawler]
 
 
