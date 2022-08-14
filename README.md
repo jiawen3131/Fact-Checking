@@ -57,5 +57,5 @@ Fever           |  VitaminC
 :-------------------------:|:-------------------------:
 ![](https://production-media.paperswithcode.com/datasets/Screenshot_2021-01-08_at_17.34.31.png)  |  ![](https://production-media.paperswithcode.com/datasets/intro_9Z4lf9z.png)
 
-The model has a rationale model that distinguishes evidence from non-evidence. Hence, for each claim, it is hypothesised that other sentences from the same Wikipedia page are non-evidences. The code to sample the non-evidence sentences for training of the rationale model can be found [here](). 
+The model has a rationale model that distinguishes evidence from non-evidence. Hence, for each claim, it is hypothesised that other sentences from the same Wikipedia page are non-evidences. The code to sample the non-evidence sentences for training of the rationale model can be found [here](https://github.com/jiawen3131/Fact-Checking/blob/main/src/Sample%20non-evidences.ipynb). 
 
