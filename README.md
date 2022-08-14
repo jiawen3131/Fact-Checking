@@ -7,7 +7,7 @@
 - [Introduction](#introduction)
 - [Claims](#Claims)
 - [Webscraper](#Webscraper)
-- [Training on FEVER & VitaminC](#Training on FEVER & VitaminC)
+- [Training on FEVER & VitaminC](#Training-on-FEVER-&-VitaminC)
 - [Results](#results)
 
 ## Introduction
